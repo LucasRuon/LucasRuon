@@ -45,8 +45,6 @@
 
 | Projeto | O que é |
 | --- | --- |
-| [**wuzapi**](https://github.com/LucasRuon/wuzapi) | API REST multi-sessão de WhatsApp em Go, com controle anti-ban, etiquetas, webhooks HMAC, RabbitMQ e S3. |
-| [**painel_pia**](https://github.com/LucasRuon/painel_pia) | Plataforma de agentes de IA para alunos, com chat sobre base de conhecimento (RAG) e painel administrativo. |
 | [**sava-novos-negocios**](https://github.com/LucasRuon/sava-novos-negocios) | CRM de novos negócios para escritório de advocacia, com leads em Kanban e contratos assinados via ZapSign. |
 
 <sub>A maior parte do meu trabalho é feita para clientes e fica em repositórios privados.</sub>
